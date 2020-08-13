@@ -8,7 +8,7 @@ import os
 class AlienInvasion:
     """Main class"""
 
-    def __init__(self, ai_game):
+    def __init__(self):
         """initialize the game, create game resources"""
         pygame.init()
         self.settings = Settings()
