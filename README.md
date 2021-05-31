@@ -1,2 +1,2 @@
 # a-ship-that-fires-bullets
-pygame project, ship fires bullets
+Credits to Eric Matthes. From *Python Crash Course* Pygame tutorial.
